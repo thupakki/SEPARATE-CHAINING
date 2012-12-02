@@ -208,7 +208,7 @@ int main()
 	for(i=0; i<50; i++)  //generate 50 records of strings to add to hash table
         { 
 	   stng = ""; 
-           for(j=0;j<30;j++)   //each string has 20 random characters
+           for(j=0;j<30;j++)   //each string has 30 random characters
            {
 	      random = rand() % 30 + 70; //generates a random number between 70 and 99
 	      stng += (char)random; 
