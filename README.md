@@ -1,5 +1,4 @@
 
-
 Hello everyone!!!!
 
 
@@ -40,7 +39,7 @@ In this class,i have declared 3 variables,4 function,1 constructor & 1 destructo
 
 VARIABLES
 
-i) bucket :- is an an array to hold linked lists for each table record of type linkedlist,which i have declared above class hash.
+i) bucket :- is an an array to hold linked lists for each table record of type linkedlist,which i have defined above class hash.
 
 ii)size  :- indicates number of indexes hash table must have.
 
@@ -51,7 +50,7 @@ FUNCTIONS
 i)int hash_str(const char *str);
   
 *the hashing algorithm used here is a DJB2 hashing algorithm.
-*In this function,hash<<5 is same as hash*(2 to the power of 5) which means hash *32.
+this function hash<<5 which is same as hash*(2 to the power of 5) which means hash *32.
 
 
 ii)void add(string &str)
