@@ -1,4 +1,3 @@
-
 Hello everyone!!!!
 
 
@@ -39,7 +38,7 @@ In this class,i have declared 3 variables,4 function,1 constructor & 1 destructo
 
 VARIABLES
 
-i) bucket :- is an an array to hold linked lists for each table record of type linkedlist,which i have defined above class hash.
+i) bucket :- is an an array to hold linked lists for each table record of type linklist,which i have defined above class hash.
 
 ii)size  :- indicates number of indexes hash table must have.
 
